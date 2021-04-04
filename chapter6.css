@@ -5,13 +5,6 @@
 }
 
 /*メインビジュアル*/
-.main-visual {
-  width: 100%; /*横幅いっぱい*/
-  height: 800px; /*高さ800px*/
-  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
-  background-position: center; /*背景画像を中央に配置*/
-}
-
 .main-visual-spring {
   width: 100%; /*横幅いっぱい*/
   height: 200px; /*高さ200px*/
