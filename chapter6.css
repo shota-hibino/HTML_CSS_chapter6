@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*メインビジュアル*/
+.main-visual {
+  width: 100%; /*横幅いっぱい*/
+  height: 800px; /*高さ800px*/
+  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
+  background-position: center; /*背景画像を中央に配置*/
+}
+
+.main-visual-spring {
+  width: 100%; /*横幅いっぱい*/
+  height: 200px; /*高さ200px*/
+  background-image: url(img/box1.jpg); /*背景画像を設定*/
+  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
+  background-position: center; /*背景画像を中央に配置*/
+}
+
+.main-visual-summer {
+  width: 100%; /*横幅いっぱい*/
+  height: 200px; /*高さ200px*/
+  background-image: url(img/box2.jpg); /*背景画像を設定*/
+  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
+  background-position: center; /*背景画像を中央に配置*/
+}
+
+.main-visual-autumn {
+  width: 100%; /*横幅いっぱい*/
+  height: 200px; /*高さ200px*/
+  background-image: url(img/box3.jpg); /*背景画像を設定*/
+  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
+  background-position: center; /*背景画像を中央に配置*/
+}
+
+.main-visual-winter {
+  width: 100%; /*横幅いっぱい*/
+  height: 200px; /*高さ200px*/
+  background-image: url(img/box4.jpg); /*背景画像を設定*/
+  background-size: cover; /*縦横比をいじしたまま背景領域を埋め尽くす*/
+  background-position: center; /*背景画像を中央に配置*/
+}
